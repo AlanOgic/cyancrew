@@ -1,2 +1,2 @@
 # cyancrew
-CrewAI for Cyanview 
+CrewAI Cyanview 
